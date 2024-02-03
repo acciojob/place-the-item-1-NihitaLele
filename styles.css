@@ -2,6 +2,8 @@
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
+	flex-direction:row;
+	align-items:stretch;
 }
 .item{
     width:100px;
